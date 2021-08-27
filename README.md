@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 
 Install YESSBox
 ```bash
-  git clone https://github.com/scotch-io/scotch-box-pro example-project-name
+  git clone https://github.com/chatch20/YESS-box.git example-project-name
   cd example-project-name
   vagrant up
 ```
