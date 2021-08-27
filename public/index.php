@@ -9,34 +9,51 @@
     <!-- Meta -->
     <meta charset="utf-8">
     <!--
-       d888888o.       ,o888888o.        ,o888888o. 8888888 8888888888 ,o888888o.    8 8888        8
-     .`8888:' `88.    8888     `88.   . 8888     `88.     8 8888      8888     `88.  8 8888        8
-     8.`8888.   Y8 ,8 8888       `8. ,8 8888       `8b    8 8888   ,8 8888       `8. 8 8888        8
-     `8.`8888.     88 8888           88 8888        `8b   8 8888   88 8888           8 8888        8
-      `8.`8888.    88 8888           88 8888         88   8 8888   88 8888           8 8888        8
-       `8.`8888.   88 8888           88 8888         88   8 8888   88 8888           8 8888        8
-        `8.`8888.  88 8888           88 8888        ,8P   8 8888   88 8888           8 8888888888888
-    8b   `8.`8888. `8 8888       .8' `8 8888       ,8P    8 8888   `8 8888       .8' 8 8888        8
-    `8b.  ;8.`8888    8888     ,88'   ` 8888     ,88'     8 8888      8888     ,88'  8 8888        8
-     `Y8888P ,88P'     `8888888P'        `8888888P'       8 8888       `8888888P'    8 8888        8
-    8 888888888o       ,o888888o.  `8.`8888.      ,8'
-    8 8888    `88.  . 8888     `88. `8.`8888.    ,8'
-    8 8888     `88 ,8 8888       `8b `8.`8888.  ,8'
-    8 8888     ,88 88 8888        `8b `8.`8888.,8'
-    8 8888.   ,88' 88 8888         88  `8.`88888'
-    8 8888888888   88 8888         88  .88.`8888.
-    8 8888    `88. 88 8888        ,8P .8'`8.`8888.
-    8 8888      88 `8 8888       ,8P .8'  `8.`8888.
-    8 8888    ,88'  ` 8888     ,88' .8'    `8.`8888.
-    8 888888888P       `8888888P'  .8'      `8.`8888.
+  ``````````````````````````````````````````````````````````    
+  -++++++++++++++++++++++++++++++++++++++++++++++++++++++++-  
+  -++++++++++++++++++++++++++++++oossyssssoo+++++++++++++++-  
+  -++++++++++++++++++++++++++osyyhhhhhhhhhhhyyo++++++++++++-  
+  -++++++++++++++++++++++++syhhhhhhyyyyhhhhhhhhys++++++++++-  
+  -+++++++++++++++++++++++shhhhhhy+:--:syhhhhhhhhyo++++++++-  
+  -++++++++++++++++++++++ohhhhhho.......:ohhhhhhhhh++++++++-  
+  -++++++++++++++++++++++shhhyhh..........:ohhhhhhho+++++++-  
+  -+++++++++++++++++++++/yhhh:yo............-syhhhh++++++++-  
+  -+++++++++++++++++++++ohhh+-y-............../:yhho+++++++-  
+  -++++++++++++++++++++++hhy..-.................-hho+++++++-  
+  -++++++++++++++++++++++/os.:------/::/:-----:.:h:++++++++-  
+  -+++++++++++++++++++++++:o.:......:..:......--/s:++++++++-  
+  -+++++++++++++++++++++++++:------:-...:------.+/+++++++++-  
+  -+++++++++++++++++++++++++o...................+/+++++++++-  
+  -+++++++++++++++++++++++++:...................:/+++++++++-  
+  -+++++++++++++++++++++++++/..................-+++++++++++-  
+  -++++++++++++++++++++++++++:................./+++++++++++-  
+  -+++++++++++++++++++++++++++-...............-++++++++++++-  
+  -+++++++++++++++++++++++++++/--...........--:++++++++++++-  
+  -++++++++++++++++++++++++++oy---------------:y+++++++++++-  
+  -++++++++++++++++++++++++osyy--------------::yyo+++++++++-  
+  -++++++++++++++++++ossyyyyyyy-:---------::::+yyysoo++++++-  
+  -++++++++++++++osyyyyyyyyyyyy-:::-----::::::yyyyyyyyysso+-  
+  -+++++++++osyyyyyyyyyyyyyyyyy-:+o+oooo/::::+yyyyyyyyyyyyy-  
+  -++++/osyyyyyyyyyyyyyyyyyyyyy:::+oooo+/::::yyyyyyyyyyyyyy-  
+  -+++/oyyyyyyyyyyyyyyyyyyyyyyy:::+ooo/:::::+yyyyyyyyyyyyyy-  
+  -++++yyyyyyyyyyyyyyyyyyyyyyyy:::oooo+:::::yyyyyyyyyyyyyyy-  
+  -++/syyyyyyyyyyyyyyyyyyyyyyyy/:oooooo/:::+yyyyyyyyyyyyyyy-  
+  -+++yyyyyyyyyyyyyyyyyyyyyyyyy+/oooooo+:::syyyyyyyyyyyyyyy-  
+  -++oyyyyyyyyyyyyyyyyyyyyyyyyyooooooooo/:oyyyyyyyyyyyyyyyy-  
+  -++yyyyyyyyyyyyyyyyyyyyyyyyyyooooooooo//yyyyyyyyyyyyyyyyy-  
+  -++yyyyyyyyyyyyyyyyyyyyyyyyyysoooooooo+syyyyyyyyyyyyyyyyy-  
+  -++yyyyyyyyyyyyyyyyyyyyyyyyyyyoooooooosyyyyyyyyyyyyyyyyyy-  
+  -+oyyyyyyyyyyyyyyyyyyyyyyyyyyyooooooooyyyyyyyyyyyyyyyyyyy-  
+  -/syyyyyyyyyyyyyyyyyyyyyyyyyyyooooooosyyyyyyyyyyyyyyyyyyy-  
+  `-::::::::::::::::::::::::::::-------::::::::::::::::::::`
     -->
-    <title>Scotch Box ♥ A Vagrant LAMP/LEMP Stack for Beginners That Just Works</title>
+    <title>YESS Box ♥ A Vagrant LAMP/LEMP Stack for developing awesome software</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <!-- Favicons -->
-    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="http://scotch.io/favicon.ico">
+    
     <!-- Styles -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -244,7 +261,7 @@ main {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/"><strong>🥃  📦 Scotch Box</strong></a>
+                <a class="navbar-brand" href="/"><strong>👍  📦 YESS Box</strong></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
@@ -276,7 +293,7 @@ main {
                             <li role="separator" class="divider"></li>
                             <li class="dropdown-header">Support</li>
                             <li><a href="https://github.com/mitchellh/vagrant/issues">Vagrant Questions</a></li>
-                            <li><a href="https://github.com/scotch-io/scotch-box/issues">Scotch Box Questions</a></li>
+                            <li><a href="https://github.com/scotch-io/scotch-box/issues">YESS Box Questions</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -326,7 +343,7 @@ main {
                             <h1>
                                 🤩 🚀 😎 🐕
                                 <br>
-                                Welcome to Scotch Box Pro
+                                Welcome to YESS Box
                             </h1>
                             <p>Pro Version 1.5 ❤️</p>
                         </div>
@@ -337,8 +354,7 @@ main {
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
-                            <h2>Just a dead-simple local LAMP/LEMP stack for developers.</h2>
-                            <p>Thank you for supporting Scotch Box. Your contribution will help continue support and growth of making development easy as cake to get started.</p>
+                            <h2>Just an awesome LAMP/LEMP stack for developers.</h2></p>
                         </div>
                     </div>
                 </div>
@@ -370,7 +386,7 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>OS</strong></td>
-                                    <td>Ubuntu 17.01 (Artful Aardvark)</td>
+                                    <td>Ubuntu 20.04</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -394,18 +410,6 @@ main {
                                     <td>✅</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Go</strong></td>
-                                    <td>
-                                        1.8
-                                    </td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Ruby</strong></td>
-                                    <td>2.5 (via RVM!)</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
                                     <td><strong>Vim</strong></td>
                                     <td>8.0</td>
                                     <td>✅</td>
@@ -423,11 +427,6 @@ main {
                                 <tr>
                                     <td><strong>Curl</strong></td>
                                     <td>7.55</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Beanstalkd</strong></td>
-                                    <td>1.10</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -504,14 +503,6 @@ main {
                                     <td>✅</td>
                                 </tr>
                                 <tr>
-                                    <td>WP-CLI</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>Drush</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
                                     <td>PHP Errors turned on</td>
                                     <td>✅</td>
                                 </tr>
@@ -580,53 +571,6 @@ main {
                                 </tr>
                                 <tr>
                                     <td>Slim</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>Other</td>
-                                    <td>Probably!</td>
-                                </tr>
-                            </table>
-                        </div>
-                    </div>
-                    <div class="col-md-8 col-md-offset-4 col-sm-6 col-sm-offset-6">
-                        <div class="make-me-a-princess">
-                            <table class="table table-responsive table-striped table-hover">
-                                <tr>
-                                    <th colspan="3">
-                                        <h4>Supported CMS's / Other</h4>
-                                    </th>
-                                </tr>
-                                <tr>
-                                    <td><strong>Thing</strong></td>
-                                    <td><strong>Meets system requirements?</strong></td>
-                                </tr>
-                                <tr>
-                                    <td>WordPress</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>Drupal</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>Joomla!</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>Craft CMS</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>Magento</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>Concrete5</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
-                                    <td>ExpressionEngine</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -955,11 +899,6 @@ main {
                                     <td>✅</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Yarn</strong></td>
-                                    <td>1.5.1</td>
-                                    <td>✅</td>
-                                </tr>
-                                <tr>
                                     <td colspan="3"><h4>Global Packages</h4></td>
                                 </tr>
                                 <?php
@@ -1051,79 +990,13 @@ main {
                             <p>Test emails locally! This is already setup with PHP too.</p>
                         </div>
                     </div>
-                    <div class="col-md-8 col-sm-6">
-                        <div class="make-me-a-princess">
-                            <table class="table table-responsive table-striped table-hover">
-                                <tr>
-                                    <th>
-                                        <h3>Mailhog</h3>
-                                        <p>This is turned on automatically now. Just visit the URL below:</p>
-                                        <br>
-                                        <p><a href="http://192.168.33.10:8025">http://192.168.33.10:8025</a></p>
-                                    </th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <br>
-                                        <div class="credentials">
-                                            <div class="form-group">
-                                                <label>Test it yourself</label>
-                                                <textarea rows="8" class="form-control" value="localhost">
-                                                    &lt;?php
-                                                    $msg = 'Email testing is cool locally';
-                                                    mail('nick@scotch.io', 'Test email', $msg);
-                                                    ?&gt;
-                                                </textarea>
-                                            </div>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </table>
-                        </div>
-                    </div>
                 </div>
             </section>
             <hr>
-            <section class="info-blocks" id="share-stuff">
-                <div class="row">
-                    <div class="col-md-4 col-sm-6">
-                        <div class="make-me-a-princess add-padding-fat text-center">
-                            <h2>Share Stuff</h2>
-                            <p>This box works with "Vagrant Share" again finally.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-8 col-sm-6">
-                        <div class="make-me-a-princess">
-                            <table class="table table-responsive table-striped table-hover">
-                                <tr>
-                                    <th>
-                                        <h3>Share it on the web</h3>
-                                        <p>Create a local tunnel to your machine to share with clients or friends.</p>
-                                    </th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <br>
-                                        <div class="credentials">
-                                            <div class="form-group">
-                                                <label>How To</label>
-                                                <div class="form-group">
-                                                    <input type="text" value="vagrant share" class="form-control">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </section>
         </article>
         <footer>
             <span>🔥 💯 🐒</span>
             <br>
-            <a href="https://box.scotch.io">box.scotch.io</a>
         </footer>
     </main>
     <!-- Scripts -->
